@@ -24,6 +24,3 @@ This book assumes that the reader has knowledge of .NET Framework and C# (at lea
 * [Mastering Windows Presentation Foundation](https://www.packtpub.com/application-development/mastering-windows-presentation-foundation?utm_source=github&utm_medium=repository&utm_campaign=9781785883002)
 
 * [Windows Presentation Foundation 4.5 Cookbook](https://www.packtpub.com/application-development/windows-presentation-foundation-45-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849686228)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
